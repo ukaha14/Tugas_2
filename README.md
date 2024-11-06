@@ -10,3 +10,4 @@ Berikut adalah tampilan aplikasi nya:
 ![Tampilan profile](assets/hasil/profile.jpg)""# Tugas_2" 
 "# Tugas_2" 
 "# Tugas_2" 
+"# Tugas_2" 
