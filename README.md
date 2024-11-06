@@ -8,3 +8,4 @@ Berikut adalah tampilan aplikasi nya:
 ![Tampilan loguot](assets/hasil/loguot.jpg)
 ![Tampilan lupa password](assets/hasil/lupa_password.jpg)
 ![Tampilan profile](assets/hasil/profile.jpg)""# Tugas_2" 
+"# Tugas_2" 
